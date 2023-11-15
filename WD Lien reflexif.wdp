@@ -1,0 +1,104 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Lien reflexif
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Lien reflexif
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Lien reflexif
+    internal_properties : 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
+    configuration_id : 2777441477364499257
+    type : 1
+    generation_name : WD Lien reflexif.exe
+    version :
+     major_version : 21
+     internal_generation_version : 2
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 1
+ elements :
+  identifier : 0x4ac600810015e3a0
+  elements :
+   -
+     name : FEN_Exemple
+     identifier : 0x3e3502b600546440
+     internal_properties : CAAAAAgAAACwjug086gAGyfrgEp1nwsEbEO7I6csIUfsvGR1NfYmMooE47FVowfBhLslkxPNtSuVnQ==
+     physical_name : .\FEN_Exemple.wdw
+     type : 2
+   -
+     name : TEST_COL_ProcéduresGlobales
+     identifier : 0x43faf6880038f882
+     internal_properties : CAAAAAgAAAB60KLmxYKqtb3q2gTL3vdv+rsxaXOvYni9GsuLvmErjU+3i23abjqc3kW/Ofn3g3Vf5w==
+     physical_name : .\TEST_COL_ProcéduresGlobales.wxt
+     type : 17
+   -
+     name : COL_ProcéduresGlobales
+     identifier : 0x43faf6790036bfb7
+     internal_properties : CAAAAAgAAABxzan9Snc/cH7Xh3KA8SMZ7a44+EYiagC9GsuLLOMz3RsxhDv0FPXZGwL8xEyEfGxU3A==
+     physical_name : .\COL_ProcéduresGlobales.wdg
+     type : 7
+   -
+     name : TEST_Exemple
+     identifier : 0x43faf60b00341249
+     internal_properties : CAAAAAgAAAAoJhAMu+DI058IfG05kGkqcAEvhznV0L5FKHllwH+VS/0VEIKhH9w+vGNdW9sV7eMtNQ==
+     physical_name : .\TEST_Exemple.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Lien reflexif.ana\WD Lien reflexif.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ wd_style_sheet : ".\\WD Lien reflexif.sty\r\n.\\reflex.sty"
+ code_elements :
+  internal_properties : CAAAAAgAAABK69nNypIn4EzuxyXUXxSI0MddEgKAU1pNAbOJdPH5MeHb4ufuALFfvnlnSubs9xMJKNOczC24q+M8f5FirJ8SwRkIHC3IIIJem+XeLPO/iq/EyvFM0Ii+mBgmVHXOvF0vkPBFxx8EJvHx+gjXERIquhGY0KmZWDg/fFBuG8nvxro0vHxlHg==
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      //HCréation(Catégorie)
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Lien reflexif
+     identifier : 0x4ac60081001de41d
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : Démo
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
